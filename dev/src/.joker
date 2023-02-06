@@ -1,0 +1,1 @@
+{:ignored-unused-namespaces [clojure.java.io clojure.repl clojure.spec.alpha mount.core user]}
